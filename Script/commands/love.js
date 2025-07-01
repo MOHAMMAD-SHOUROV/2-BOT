@@ -1,7 +1,7 @@
 /** I am doing this coding with a lot of difficulty, please don't post it yourself¯\_(ツ)_/¯ **/
 module.exports.config = {
-  name: "love",
-  version: "1.0.0",
+  ame: "love",
+  ersion: "1.0.0",
   hasPermssion: 0,
   credits: "Islamick Chat",
   description: "story VEDIO",
